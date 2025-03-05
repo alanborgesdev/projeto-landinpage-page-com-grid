@@ -60,9 +60,12 @@ Se quiser contribuir com este projeto, siga estes passos:
 
 Agradecemos sua ajuda! 🚀
 
+## 💎 Autor
+
+Criado por **[Alan Borges](https://github.com/alanborgesdev)** 🚀
 
 ## 📄 Licença
 
 Este projeto está sob a licença MIT - sinta-se à vontade para utilizá-lo e modificá-lo.
 
-Criado por Alan Borges 🚀
+

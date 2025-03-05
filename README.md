@@ -35,7 +35,7 @@ Este é um projeto de landing page para a **Agência XYZ**, desenvolvido com **H
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/alanborgesdev/projeto-landinpage-page-com-grid
    ```
 2. Acesse a pasta do projeto:
    ```sh

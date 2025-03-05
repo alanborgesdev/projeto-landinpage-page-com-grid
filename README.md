@@ -47,6 +47,21 @@ Este é um projeto de landing page para a **Agência XYZ**, desenvolvido com **H
 
 ![Preview do Projeto](./src/images/preview.png)
 
+## 🤝 Contribuição
+
+Contribuições são sempre bem-vindas!  
+
+Se quiser contribuir com este projeto, siga estes passos:
+
+1. Faça um fork do repositório.
+2. Crie uma branch com sua funcionalidade: `git checkout -b minha-nova-feature`.
+3. Commit suas alterações: `git commit -m "Adicionei uma nova feature"`.
+4. Faça um push para a branch: `git push origin minha-nova-feature`.
+5. Abra um Pull Request.
+
+Agradecemos sua ajuda! 🚀
+
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT - sinta-se à vontade para utilizá-lo e modificá-lo.

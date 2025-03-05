@@ -6,7 +6,6 @@ Este é um projeto de landing page para a **Agência XYZ**, desenvolvido com **H
 
 - HTML5
 - CSS3
-- JavaScript
 - Google Fonts
 - Font Awesome
 

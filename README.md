@@ -58,7 +58,7 @@ Se quiser contribuir com este projeto, siga estes passos:
 4. Faça um push para a branch: `git push origin minha-nova-feature`.
 5. Abra um Pull Request.
 
-Agradecemos sua ajuda! 🚀
+Agradecemos sua ajuda! 😉
 
 ## 💎 Autor
 
